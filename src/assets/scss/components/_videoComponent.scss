@@ -18,23 +18,11 @@
 	}
 }
 
-.title {
-	font-size: 50px;
-	font-weight: 600;
-	margin: 0;
-	line-height: 70px;
-}
-
-.sub-title {
-	font-size: 24px;
-  font-weight: 300;
-  margin: 20px 0 30px;
-	font-family: 'Open Sans', sans-serif;
-}
-
-.modal-title {
-	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+@media (max-width: 576px) {
+	.btn-custom {
+		font-size: 12px;
+		padding: 10px 15px;
+	}
 }
 
 /* Background Header */

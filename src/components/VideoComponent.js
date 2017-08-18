@@ -14,7 +14,7 @@ class VideoComponent extends Component {
 		return (
 			<div className="z-bottom">
 				<div className="img-bg-header" id="large-header">
-					<canvas id="demo-canvas" style="position: absolute"></canvas>
+					<canvas id="demo-canvas" style="position: absolute" className="hidden-md-down"></canvas>
 					<div className="container spacing-1x">
 						<div className="row align-items-center">
 							<div className="col-md-12 text-center text-white">

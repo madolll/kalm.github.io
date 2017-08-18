@@ -16,8 +16,8 @@ class CodeComponent extends Component {
 				<div className="container pt-5">
 					<div className="row align-items-center">
 						<div className="col-md-12 text-center">
-							<h2 className="section-title mt-5 mb-2">Code sample</h2>
-							<h3 className="section-subtitle">Easy-to-use single syntax for all protocols</h3>
+							<h2 className="section-title mt-md-5 mb-2">Code sample</h2>
+							<h5 className="section-subtitle">Easy-to-use single syntax for all protocols</h5>
 						</div>
 
 						<div className="col-md-6 mt-5">
