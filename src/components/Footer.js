@@ -18,7 +18,7 @@ class Footer extends Component {
 				<div className="row">
 					<div className="col-md-12">
 						<footer className="footer">
-							<h4>Copyrights © 2017 All Rights Reserved by Kalm</h4>
+							<h5>Copyrights © 2017 All Rights Reserved by Kalm</h5>
 							<div id="footer-contact">
 								<ul className="contact">
 									<li><a href="https://github.com/kalm" rel="noopener noreferrer" target="_blank"><img src="./images/svg/github-icon.svg" className="pr-4" alt="github icon" /></a></li>

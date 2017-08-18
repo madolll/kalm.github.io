@@ -1,4 +1,8 @@
 .network-bg {
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/network.jpg") no-repeat center center;
+	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url("./images/network.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.box {
+	background-color: rgba(10, 10, 10, 0.1);
 }
