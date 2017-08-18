@@ -19,33 +19,33 @@ class Features2 extends Component {
 					<div className="row">
 						<div className="col-md-6">
 							<div className="media">
-							  <img className="hidden-sm-down d-flex align-self-center mr-3" src="./images/svg/server-icon.svg" alt="server icon" />
+								<img className="hidden-sm-down d-flex align-self-center mr-3" src="./images/svg/server-icon.svg" alt="server icon" />
 
-							  <div className="media-body">
-							    <h4 className="mt-0 section-subtitle">Network Optimizations</h4>
+								<div className="media-body">
+									<h4 className="mt-0 section-subtitle">Network Optimizations</h4>
 
 									<ul className="list-bullet-custom section-text">
 										<li>Scaling is more predictable</li>
 										<li>Atomic congestion control settings</li>
 										<li>Reduces bandwidth from protocol overhead</li>
 									</ul>
-							  </div>
+								</div>
 							</div>
 						</div>
 
 						<div className="col-md-6">
 							<div className="media">
-							  <img className="hidden-sm-down d-flex align-self-center mr-3" src="./images/svg/server-icon.svg" alt="server icon" />
+								<img className="hidden-sm-down d-flex align-self-center mr-3" src="./images/svg/server-icon.svg" alt="server icon" />
 
-							  <div className="media-body">
-							    <h4 className="mt-0 section-subtitle">Simple usage</h4>
+								<div className="media-body">
+									<h4 className="mt-0 section-subtitle">Simple usage</h4>
 
 									<ul className="list-bullet-custom section-text">
 										<li>Intuitive single syntax for all protocols</li>
 										<li>Feature parity for all protocols for multiplexing</li>
 										<li>Stats and monitoring-enabled</li>
 									</ul>
-							  </div>
+								</div>
 							</div>
 						</div>
 					</div>
